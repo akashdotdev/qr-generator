@@ -1,4 +1,4 @@
-let qrdisplay = document.getElementById('qrdisplay');Add commentMore actions
+let qrdisplay = document.getElementById('qrdisplay');
 let qrimage = document.getElementById('qrimage');
 let inputfield = document.getElementById('input');
 const btn = document.getElementById('btn');
